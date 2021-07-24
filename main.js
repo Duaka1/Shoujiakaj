@@ -4,9 +4,10 @@ var dssv = new DanhSachSinhVien();
 /* var list =[]; */
 var validation = new Validation();
 
-function addUser(){
-    console.log("Đây là addUser đã làm xong của Dunguyen");
+function addUser() {
+    console.log("Đây là addUser đã làm xong của dunguyen2");
 }
+ 
 
 function getEle(id) {
     return document.getElementById(id);
